@@ -2,7 +2,7 @@
 
 # my-game  
 
-# 采用vue+vue-router+vuex+vue-cli 构建的简单游戏  通过express mock数据 基本结构已完成
+> 采用vue+vue-router+vuex+vue-cli 构建的简单游戏  通过express mock数据 基本结构已完成
 > A Vue.js project
 
 ## Build Setup
