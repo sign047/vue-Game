@@ -1,6 +1,6 @@
 <template>
 	<div class="box" :class="{active:option.flipped}">
-		<img class="front" src="../../../static/img/front.jpg">
+		<img class="front" src="./front.jpg">
 		<img class="back" :src="option.img">
 	</div>
 </template>
