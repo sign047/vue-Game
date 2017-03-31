@@ -1,7 +1,7 @@
 
 
 # my-game  
-
+[演示地址](https://sign047.github.io/show/app/index.html#/).
 > 采用vue+vue-router+vuex+vue-cli 构建的简单游戏  通过express mock数据 基本结构已完成
 
 ## Build Setup
